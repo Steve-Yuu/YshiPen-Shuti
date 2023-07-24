@@ -1,7 +1,9 @@
 # YshiShuti Y式書體
+
 本字体基于Klee one字体及其衍生的霞鹜文楷系列字体进行改做，基于文楷TC修改的字体
 [![開源授權](https://img.shields.io/github/license/Steve-Yuu/YshiShuti?style=flat-square)](https://github.com/Steve-Yuu/YshiShuti)
 [![最新版](https://img.shields.io/github/release/Steve-Yuu/YshiShuti?style=flat-square)](https://github.com/Steve-Yuu/YshiShuti/releases)
+
 鸣谢
 =
 [文楷GB](https://github.com/lxgw/LxgwWenkaiGB)、[芫荽](https://github.com/ButTaiwan/iansui)、[芫茜雅楷](https://github.com/ItMarki/jyunsaikaai)、[霞鶩文楷 TC](https://github.com/lxgw/LxgwWenkaiTC)、[霞鶩文楷](https://github.com/lxgw/LxgwWenKai)、[Klee](https://github.com/fontworks-fonts/Klee)、[繁星楷](https://github.com/GuiWonder/MoonStarsKai)
