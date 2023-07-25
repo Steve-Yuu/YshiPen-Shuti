@@ -1,6 +1,11 @@
 # YshiShuti Y式書體
 
 本字体基于Klee one字体及其衍生的霞鹜文楷系列字体进行改做，基于文楷TC修改的字体
+
+命名
+=
+本字体命名原本计划以本人笔名“鬰”或者“Yuu”命名，但是由于“鬰”难以辨识，并且“Yuu”可能会与其他字体名称撞车，因此直接以“Y式”命名，“Y”其实是“鬰”拼音的第一个字母，也是笔名“Yuu”的第一个字母
+
 [![開源授權](https://img.shields.io/github/license/Steve-Yuu/YshiShuti?style=flat-square)](https://github.com/Steve-Yuu/YshiShuti)
 [![最新版](https://img.shields.io/github/release/Steve-Yuu/YshiShuti?style=flat-square)](https://github.com/Steve-Yuu/YshiShuti/releases)
 
