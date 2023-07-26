@@ -20,8 +20,12 @@
 概要
 =
 本字体分为正体版和异体版，异体版个别简体字型有强制草书楷化（如“纵”），也有参照一点明朝的写法（如“凿”），目前正体版个别字为JP写法（如：径、茎），正体版结合康熙字典标准，中国陆港澳台上世纪老MV、书籍所使用的旧字形字体标准进行修订（个别字和检校表写法存在差异，如：羞、危、陷、负、免等等），异体版选择某些碑帖中个别罕见的写法（如：章），以及某些字其他地区标准写法（如：寺、廣等等）。说白了也就是个人根据各种字体选择的写法。
+![](https://github.com/Steve-Yuu/YshiShuti/blob/main/%E6%AD%A3%E4%BD%931.jpg)
+![](https://github.com/Steve-Yuu/YshiShuti/blob/main/%E6%AD%A3%E4%BD%932.jpg)
+![](https://github.com/Steve-Yuu/YshiShuti/blob/main/%E5%BC%82%E4%BD%931.jpg)
+![](https://github.com/Steve-Yuu/YshiShuti/blob/main/%E5%BC%82%E4%BD%932.jpg)
 
 备注
 =
-1、部分字形和现代各种地区标准写法存在差异
-2、本字体目前只有旧字形版
+1.部分字形和现代各种地区标准写法存在差异
+2.本字体目前只有旧字形版
