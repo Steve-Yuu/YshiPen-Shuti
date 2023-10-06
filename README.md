@@ -14,7 +14,7 @@
 
 鸣谢
 =
-[文楷GB](https://github.com/lxgw/LxgwWenkaiGB)、[芫荽](https://github.com/ButTaiwan/iansui)、[芫茜雅楷](https://github.com/ItMarki/jyunsaikaai)、[霞鶩文楷 TC](https://github.com/lxgw/LxgwWenkaiTC)、[霞鶩文楷](https://github.com/lxgw/LxgwWenKai)、[Klee](https://github.com/fontworks-fonts/Klee)、[繁星楷](https://github.com/GuiWonder/MoonStarsKai)
+[文楷GB](https://github.com/lxgw/LxgwWenkaiGB)、[芫荽](https://github.com/ButTaiwan/iansui)、[芫茜雅楷](https://github.com/ItMarki/jyunsaikaai)、[霞鶩文楷 TC](https://github.com/lxgw/LxgwWenkaiTC)、[霞鶩文楷](https://github.com/lxgw/LxgwWenKai)、[Klee](https://github.com/fontworks-fonts/Klee)、[繁星楷](https://github.com/GuiWonder/MoonStarsKai)、计划楷等
 
 授权
 =
