@@ -27,15 +27,14 @@ YShi书体（YShiShuti）是基于 Klee One 进行字符扩展及补充的项目
 
 ## 鸣谢
 
-[文楷GB](https://github.com/lxgw/LxgwWenkaiGB)
-[芫荽](https://github.com/ButTaiwan/iansui)
-[芫茜雅楷](https://github.com/ItMarki/jyunsaikaai)
-[霞鶩文楷 TC](https://github.com/lxgw/LxgwWenkaiTC)
-[霞鶩文楷](https://github.com/lxgw/LxgwWenKai)
-[Klee](https://github.com/fontworks-fonts/Klee)
-[繁星楷](https://github.com/GuiWonder/MoonStarsKai)
-[计划楷](https://github.com/Des-Magmeta/PlanKai)
-
+- [文楷GB](https://github.com/lxgw/LxgwWenkaiGB)
+- [芫荽](https://github.com/ButTaiwan/iansui)
+- [芫茜雅楷](https://github.com/ItMarki/jyunsaikaai)
+- [霞鶩文楷 TC](https://github.com/lxgw/LxgwWenkaiTC)
+- [霞鶩文楷](https://github.com/lxgw/LxgwWenKai)
+- [Klee One](https://github.com/fontworks-fonts/Klee)原始字体
+- [繁星楷](https://github.com/GuiWonder/MoonStarsKai)
+- [计划楷](https://github.com/Des-Magmeta/PlanKai)
 
 ## 授权
 
