@@ -48,11 +48,11 @@ YShi书体（YShiShuti）是基于 Klee One 进行字符扩展及补充的项目
 
 ## 参考资料&工具
 
-康熙字典
-[字统网](https://zi.tools/)
-[一點字坊](https://github.com/ichitenfont/)[傳承字形標準化文件](https://github.com/ichitenfont/inheritedglyphs)及[一點明體](https://github.com/ichitenfont/I.Ming)
-[委班復生漢喃越南](https://hannom-rcv.org/)
-[会保存遗产喃](https://nomfoundation.org/)
+- 康熙字典
+- [字统网](https://zi.tools/)
+- [一點字坊](https://github.com/ichitenfont/)[傳承字形標準化文件](https://github.com/ichitenfont/inheritedglyphs)及[一點明體](https://github.com/ichitenfont/I.Ming)
+- [委班復生漢喃越南](https://hannom-rcv.org/)
+- [会保存遗产喃](https://nomfoundation.org/)
 
 
 ## 备注
