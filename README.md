@@ -36,7 +36,7 @@ YShi书体（YShiShuti）是基于 Klee One 进行字符扩展及补充的项目
 - [Klee One](https://github.com/fontworks-fonts/Klee)原始字体
 - [繁星楷](https://github.com/GuiWonder/MoonStarsKai)
 - [计划楷](https://github.com/Des-Magmeta/PlanKai)
-
+  
 ## 授权
 
 遵循 SIL Open Font License 1.1。
@@ -63,7 +63,7 @@ YShi书体（YShiShuti）是基于 Klee One 进行字符扩展及补充的项目
 - 本字体目前不计划做等宽（MONO）
 - 本字体目前只有标点居中版
 - 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」
-<span lang="zh-cn">「YShi书体」</span>
-<span lang="zh-tw">「YShi書體」</span>
-或「YShiShuti」。
+<span lang="zh-cn">「YShi笔书」</span>
+<span lang="zh-tw">「YShi筆書」</span>
+或「YShiPen-Shuti」。
 若有问题，欢迎在issue进行反馈
