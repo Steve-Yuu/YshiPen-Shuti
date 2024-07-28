@@ -8,7 +8,7 @@
 
 ## 简介
 
-2020 年 12 月，日本著名字体厂商 FONTWORKS 在 GitHub 上释出了 [7 款开源日文字体](https://github.com/fontworks-fonts)，其中 [Klee One](https://github.com/fontworks-fonts/Klee) 字符数最多，兼有仿宋和楷体的特点，具有优雅的外观及较高的可读性，非常适合正文排版。此外，该字体拥有多种衍生版本，如[「霞鹜文楷」](https://github.com/lxgw/LxgwWenkai)、[「芫荽」](https://github.com/ButTaiwan/iansui)、[「芫茜雅楷」](https://github.com/ItMarki/jyunsaikaai) 、[「计划楷」](https://github.com/Des-Magmeta/PlanKai)、「末绮楷书」、[「繁星楷/皓月楷」](https://github.com/GuiWonder/MoonStarsKai)等。提供了更多对字形的选择性，以及增加了更多字符。
+2020 年 12 月，日本著名字体厂商 FONTWORKS 在 GitHub 上释出了 [7 款开源日文字体](https://github.com/fontworks-fonts)，其中 [Klee One](https://github.com/fontworks-fonts/Klee) 字符数最多，兼有仿宋和楷体的特点，具有优雅的外观及较高的可读性，非常适合正文排版。此外，该字体拥有多种衍生版本，如[「霞鹜文楷」](https://github.com/lxgw/LxgwWenkai)、[「芫荽」](https://github.com/ButTaiwan/iansui)、[「芫茜雅楷」](https://github.com/ItMarki/jyunsaikaai) 、[「计划楷」](https://github.com/Des-Magmeta/PlanKai)、「末绮楷书」、[「月星楷」](https://github.com/GuiWonder/MoonStarsKai)等。提供了更多对字形的选择性，以及增加了更多字符。
 然而，以上字体仍然或多或少缺字，而「计划楷」也并不是解决基本区缺字问题的。 此外，对于字形的选择，这些字形也不能满足所有人的口味。
 YShi笔书体（YShiPen-Shuti）是基于 Klee One 进行字符扩展及补充的项目。该项目于2022 年 12 月试运行，于23年夏天正式发布第一版，起初目的是修改成偏向于康熙、98细明体标准的字形，并对Klee、霞鹜文楷TC进行扩充，主要是囊括基本区更多字符（不直接使用文楷原版炼丹的字符，而是手拼）且以旧字形展现。
 
@@ -39,7 +39,7 @@ YShi笔书体（YShiPen-Shuti）是基于 Klee One 进行字符扩展及补充�
 - [霞鶩文楷 TC](https://github.com/lxgw/LxgwWenkaiTC)
 - [霞鶩文楷](https://github.com/lxgw/LxgwWenKai)
 - [Klee One](https://github.com/fontworks-fonts/Klee)原始字体
-- [繁星楷](https://github.com/GuiWonder/MoonStarsKai)
+- [月星楷](https://github.com/GuiWonder/MoonStarsKai)
 - [计划楷](https://github.com/Des-Magmeta/PlanKai)
   
 ## 授权
