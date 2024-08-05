@@ -57,6 +57,8 @@ YShi笔书体（YShiPen-Shuti）是基于 Klee One 进行字符扩展及补充�
 ## 参考资料&工具
 
 - 康熙字典
+- 汉文博士
+- [CharToUnicode](https://github.com/GuiWonder/CharToUnicode)
 - [字统网](https://zi.tools/)
 - [一點字坊](https://github.com/ichitenfont/)[傳承字形標準化文件](https://github.com/ichitenfont/inheritedglyphs)及[一點明體](https://github.com/ichitenfont/I.Ming)
 - [委班復生漢喃越南](https://hannom-rcv.org/)
