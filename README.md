@@ -1,6 +1,6 @@
 # YshiPen-Shuti Y式筆書
 
-**简体中文** [繁体中文](./readme-fanti.md#YshiPen-Shuti)
+**简体中文** [繁体中文](readme-fanti.md)
 
 本字体基于Klee one字体及其衍生的霞鹜文楷系列字体进行改做，基于文楷TC修改的字体
 
