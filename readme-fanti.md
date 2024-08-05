@@ -1,6 +1,6 @@
 # YshiPen-Shuti Y式筆書
 
-[簡體中文](https://github.com/Steve-Yuu/YshiPen-Shuti/blob/main/README.md) 繁體中文
+[簡體中文](https://github.com/Steve-Yuu/YshiPen-Shuti/blob/main/README.md) **繁體中文**
 
 本字體基於Klee one字體及其衍生的霞鶩文楷系列字體進行改做，基於文楷TC修改的字體
 
