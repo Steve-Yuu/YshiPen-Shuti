@@ -2,6 +2,10 @@
 
 [簡體中文](README.md) **繁體中文**
 
+</div>
+
+<div lang="ja-jp">  
+
 本字體基於Klee one字體及其衍生的霞鶩文楷系列字體進行改做，基於文楷TC修改的字體
 
 [![開源授權](https://img.shields.io/github/license/Steve-Yuu/YshiShuti?style=flat-square)](https://github.com/Steve-Yuu/YshiShuti)
@@ -73,6 +77,6 @@ YShi筆書體（YShiPen-Shuti）是基於 Klee One 進行字元擴展及補充�
 - 本字體目前只有標點居中版
 - 在製作衍生字體時，字體名稱不可使用原有字體的「保留名稱」
 <span lang="zh-cn">「YShi笔书」</span>
-<span lang="ja-jp">「YShi筆書」</span>
+<span lang="zh-hk">「YShi筆書」</span>
 或「YShiPen-Shuti」。
 若有問題，歡迎在issue進行回饋
