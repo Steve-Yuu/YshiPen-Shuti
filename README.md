@@ -26,7 +26,9 @@ YShi笔书体（YShiPen-Shuti）是基于 Klee One 进行字符扩展及补充�
 
 ## 收录字符
 - [x] JP-Pr6N 收录的字符  
-- [ ] Big5+HKSCS 中，文楷没有收录的部分字符  
+- [x] Big5
+- [ ] 《古籍印刷通用字规范字形表》字符
+- [ ] HKSCS基本区
 - [x] [「霞鹜文楷」/ LXGW WenKai](https://github.com/lxgw/LxgwWenKai) 收录字符  
 - [ ] 委班復生漢喃越南所收部分字喃（Chữ Nôm） 
 - [ ] 中日韩兼容汉字及补充（目前只收部分，计划补全）
