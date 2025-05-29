@@ -30,7 +30,9 @@ YShi筆書體（YShiPen-Shuti）是基於 Klee One 進行字元擴展及補充�
 
 ## 收錄字元
 - [x] JP-Pr6N 收録的字元  
-- [ ] Big5+HKSCS 中，文楷没有收録的部分字元  
+- [x] Big5
+- [ ]《古籍印刷通用字規範字形表》字元
+- [ ] HKSCS基本區
 - [x] [「霞鶩文楷」/ LXGW WenKai](https://github.com/lxgw/LxgwWenKai) 收録字元  
 - [ ] 委班複生漢喃越南所收部分字喃（Chữ Nôm） 
 - [ ] 中日韓相容漢字及補充（目前只收部分，計劃補全）
