@@ -41,6 +41,7 @@ YShi笔书体（YShiPen-Shuti）是基于 Klee One 进行字符扩展及补充�
 - [芫荽](https://github.com/ButTaiwan/iansui)
 - [芫茜雅楷](https://github.com/ItMarki/jyunsaikaai)
 - [霞鶩文楷 TC](https://github.com/lxgw/LxgwWenkaiTC)
+- [霞鶩文楷 KR](https://github.com/lxgw/LxgwWenkaiKR)
 - [霞鶩文楷](https://github.com/lxgw/LxgwWenKai)
 - [彭蠡文楷](https://github.com/lxgw/Pengli)
 - [蒹葭楷](https://github.com/Tsao-Tung/Chienchia)
