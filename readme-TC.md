@@ -47,6 +47,8 @@ YShi筆書體（YShiPen-Shuti）是基於 Klee One 進行字元擴展及補充�
 - [霞鶩文楷 TC](https://github.com/lxgw/LxgwWenkaiTC)
 - [霞鶩文楷](https://github.com/lxgw/LxgwWenKai)
 - [彭蠡文楷](https://github.com/lxgw/Pengli)
+- [蒹葭楷](https://github.com/Tsao-Tung/Chienchia)
+- [千菅書體](https://github.com/ChisugaMaeka/Chisuga-Shotai)
 - [Klee One](https://github.com/fontworks-fonts/Klee)原始字體
 - [月星楷](https://github.com/GuiWonder/MoonStarsKai)
 - [計劃楷](https://github.com/Des-Magmeta/PlanKai)
@@ -71,7 +73,7 @@ YShi筆書體（YShiPen-Shuti）是基於 Klee One 進行字元擴展及補充�
 - [字統網](https://zi.tools/)
 - [一點字坊](https://github.com/ichitenfont/)[傳承字形標準化檔](https://github.com/ichitenfont/inheritedglyphs)及[一點明體](https://github.com/ichitenfont/I.Ming)
 - [委班複生漢喃越南](https://hannom-rcv.org/)
-- [會保存遺產喃](https://nomfoundation.org/)
+- [會保存遺産喃](https://nomfoundation.org/)
 
 
 ## 備註
