@@ -82,4 +82,5 @@ YShi笔书体（YShiPen-Shuti）是基于 Klee One 进行字符扩展及补充�
 <span lang="zh-cn">「YShi笔书」</span>
 <span lang="zh-tw">「YShi筆書」</span>
 或「YShiPen-Shuti」。
+- 关于各种后缀的含义：CL（传统旧字形）、CLS（传统旧字形变体）、TC（港台式旧字形）、新笔书（折中旧字形）
 若有问题，欢迎在issue进行反馈
