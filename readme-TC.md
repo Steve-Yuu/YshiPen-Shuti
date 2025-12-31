@@ -20,9 +20,10 @@ YShi筆書體（YShiPen-Shuti）是基於 Klee One 進行字元擴展及補充�
 
 ## 預覽
 
-![範例](https://github.com/Steve-Yuu/YshiPen-Shuti/blob/main/images/YShi%E7%AD%86%E6%9B%B8%E9%AB%94%E6%96%B0%E7%A4%BA%E7%AF%84%E5%9C%96%E7%89%87.png)
-![範例2](https://github.com/Steve-Yuu/YshiPen-Shuti/blob/main/images/%E7%AF%84%E4%BE%8B2.png)
-![注意事項](https://github.com/Steve-Yuu/YshiPen-Shuti/blob/main/images/%E5%AD%97%E9%AB%94%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85.png)
+![範例](https://github.com/Steve-Yuu/YshiPen-Shuti/blob/main/images/1.JPG)
+![範例2](https://github.com/Steve-Yuu/YshiPen-Shuti/blob/main/images/2.JPG)
+![3](https://github.com/Steve-Yuu/YshiPen-Shuti/blob/main/images/3.JPG)
+![注意事项](https://github.com/Steve-Yuu/YshiPen-Shuti/blob/main/images/4.JPG)
 
 ## 關於命名
 
@@ -87,5 +88,5 @@ YShi筆書體（YShiPen-Shuti）是基於 Klee One 進行字元擴展及補充�
 <span lang="zh-cn">「YShi笔书」</span>
 <span lang="zh-hk">「YShi筆書」</span>
 或「YShiPen-Shuti」。
-- 關於各種尾碼的含義：CL（傳統舊字形）、CLS（傳統舊字形變體）、TC（舊字形，摻雜港台常用字形）、新筆書（又名null版，折中舊字形，混雜現代字形常用字形）
+- 關於各種尾碼的含義：CL（傳統舊字形）、CLS（傳統舊字形變體）、TC（舊字形，摻雜港台常用字形）、新筆書（又名null版，折中舊字形，混雜現代字形常用字形）、MN（現代字形，偏港台常用字形）
 若有問題，歡迎在issue進行回饋
