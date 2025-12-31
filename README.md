@@ -16,10 +16,10 @@ YShi笔书体（YShiPen-Shuti）是基于 Klee One 进行字符扩展及补充�
 
 ## 预览
 
-![範例](https://github.com/Steve-Yuu/YshiPen-Shuti/blob/main/images/YShi%E7%AD%86%E6%9B%B8%E9%AB%94%E6%96%B0%E7%A4%BA%E7%AF%84%E5%9C%96%E7%89%87.png)
-![範例2](https://github.com/Steve-Yuu/YshiPen-Shuti/blob/main/images/%E7%AF%84%E4%BE%8B2.png)
-![注意事项](https://github.com/Steve-Yuu/YshiPen-Shuti/blob/main/images/%E5%AD%97%E9%AB%94%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85.png)
-
+![範例](https://github.com/Steve-Yuu/YshiPen-Shuti/blob/main/images/1.JPG)
+![範例2](https://github.com/Steve-Yuu/YshiPen-Shuti/blob/main/images/2.JPG)
+![3](https://github.com/Steve-Yuu/YshiPen-Shuti/blob/main/images/3.JPG)
+![注意事项](https://github.com/Steve-Yuu/YshiPen-Shuti/blob/main/images/4.JPG)
 ## 关于命名
 
 本字体命名原本计划以本人笔名“鬰”或者“Yuu”命名，但是由于“鬰”难以辨识，并且“Yuu”可能会与其他字体名称撞车，因此直接以“Y式”（又称YShi）命名，“Y”其实是“鬰”拼音的第一个字母，也是笔名“Yuu”的第一个字母。字體于2024.7.20之前，名曰“YShi書體”，由於“書體”在日本语意思是“字体”的意思，为防止歧义故更改，本计划更名“楷书体”，由于他人有更好的建议，故更名“笔书”
