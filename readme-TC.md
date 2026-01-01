@@ -36,7 +36,7 @@ YShi筆書體（YShiPen-Shuti）是基於 Klee One 進行字元擴展及補充�
 - [x] HKSCS基本區
 - [x] [「霞鶩文楷」/ LXGW WenKai](https://github.com/lxgw/LxgwWenKai) 收録字元  
 - [ ] 委班複生漢喃越南所收部分字喃（Chữ Nôm） 
-- [ ] 中日韓相容漢字及補充（目前只補全了兼容區）
+- [X] 中日韓相容漢字及補充
 - [x] 計劃楷所收部分字元（按需添加）
 
 
