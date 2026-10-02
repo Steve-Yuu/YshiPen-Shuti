@@ -1,3 +1,4 @@
+Copyright 2023-2026 Steve-Yuu (https://github.com/Steve-Yuu/YshiPen-Shuti)
 Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
