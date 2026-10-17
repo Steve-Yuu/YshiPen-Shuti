@@ -78,6 +78,7 @@ YShi笔书体（YShiPen-Shuti）是基于 Klee One 进行字符扩展及补充�
 - 本字体异体版少许借用碑帖中的某些异体字
 - 本字体目前不计划做等宽（MONO）
 - 本字体目前只有标点居中版
+- 本字体NULL、NEWMN版，notdef字符使用[霞鹜文楷v1.501版](https://github.com/lxgw/LxgwWenkaiTC/releases/tag/v1.501)起的，其余的如CL、TC、CLS均自制
 - 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」
 <span lang="zh-cn">「YShi笔书」</span>
 <span lang="zh-tw">「YShi筆書」</span>
