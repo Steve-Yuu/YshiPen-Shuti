@@ -49,6 +49,7 @@ YShi笔书体（YShiPen-Shuti）是基于 Klee One 进行字符扩展及补充�
 - [Klee One](https://github.com/fontworks-fonts/Klee)原始字体
 - [月星楷](https://github.com/GuiWonder/MoonStarsKai)
 - [计划楷](https://github.com/Des-Magmeta/PlanKai)
+- [大橋和楷書體](https://github.com/BridgeRiver/BRWakaishotai)
 - Magmeta提供字体名称建议
 - lxgw给予技术支持以及协助制作、提供优化字符
   
